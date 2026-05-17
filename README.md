@@ -1,3 +1,26 @@
+# VirtualsWorlds Community Code of Conduct
+
+## 1. Our Pledge
+We are committed to providing a welcoming, professional, and secure environment for all developers, traders, and contributors within the VirtualsWorlds ecosystem.
+
+## 2. Core Focus & Infrastructure
+* **Blockchain Development:** Building secure solutions across TON network, BNB Smart Chain, and Bitcoin protocols.
+* **Intelligent Systems:** Deploying advanced AI Agent architectures and automated backend workflows.
+
+## 3. Owner Verification & Authentication
+This repository and its ecosystem are officially owned, managed, and authenticated by the founder. The following credentials serve as the verifiable on-chain and off-chain identity for the owner:
+
+* **Official Telegram Support:** @Q7344
+* **Verified TON Wallet Address:** `UQCxl11ULxxz9X-nvXoNOEgIosMCtHTHcmL032Tylt0u_QMe`
+
+## 4. Contact & Developer Support
+For technical inquiries, smart contract audits, liquidity operations, or official collaborations, connect directly via the verified Telegram handler above.
+
+
+
+
+
+
 TON network contract address VWS - EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h													
 🚀 MVP  🎁
 MVP community member management token
