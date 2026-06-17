@@ -1,4 +1,4 @@
-TON network contract address VWS - EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h													
+TON network contract address VWS - EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h													مالك هاذي المنظمه محمد غبان mhmda1
 🚀 MVP  🎁
 MVP community member management token
 VWS Payload Token VWS Game Chats with 17 types of tokens
@@ -98,3 +98,4 @@ Investors write		https://t.me/MagikNFT
 
 
 
+مالك لهاذي منظمه محمد غبان تيلجرام @Q7344
